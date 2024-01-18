@@ -1,2 +1,2 @@
 # SL-Sea-foods
-it is a wonderful website
+A website for seafoods shopping online and ordering to the doorstep .
